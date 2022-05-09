@@ -44,9 +44,9 @@ export function App() {
                     </div>
 
                     <div className="w-full flex flex-wrap gap-8">
-                        <div className="w-[352px] h-[310px] bg-zinc-100 dark:bg-zinc-800 rounded-lg"></div>
-                        <div className="w-[352px] h-[310px] bg-zinc-100 dark:bg-zinc-800 rounded-lg"></div>
-                        <div className="w-[352px] h-[310px] bg-zinc-100 dark:bg-zinc-800 rounded-lg"></div>
+                        <div className="w-[352px] h-[310px] bg-zinc-100 dark:bg-zinc-800 hover:bg-zinc-200 dark:hover:bg-zinc-700 rounded-lg"></div>
+                        <div className="w-[352px] h-[310px] bg-zinc-100 dark:bg-zinc-800 hover:bg-zinc-200 dark:hover:bg-zinc-700 rounded-lg"></div>
+                        <div className="w-[352px] h-[310px] bg-zinc-100 dark:bg-zinc-800 hover:bg-zinc-200 dark:hover:bg-zinc-700 rounded-lg"></div>
                     </div>
                 </div>
             </main>
