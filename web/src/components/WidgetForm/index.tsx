@@ -59,7 +59,7 @@ export function WidgetForm() {
             )}
 
             <footer className="text-xl text-neutral-400">
-                Feito com ❤ por{" "}
+                Feito com ♥ por{" "}
                 <a
                     className="underline underline-offset-4"
                     href="https://github.com/devRMA"
