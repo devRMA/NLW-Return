@@ -1,6 +1,14 @@
 
-# Created by https://www.toptal.com/developers/gitignore/api/react,reactnative,node
-# Edit at https://www.toptal.com/developers/gitignore?templates=react,reactnative,node
+# Created by https://www.toptal.com/developers/gitignore/api/node,react,reactnative,database
+# Edit at https://www.toptal.com/developers/gitignore?templates=node,react,reactnative,database
+
+### Database ###
+*.accdb
+*.db
+*.dbf
+*.mdb
+*.pdb
+*.sqlite3
 
 ### Node ###
 # Logs
@@ -349,4 +357,4 @@ google-services.json
 # Android Profiling
 *.hprof
 
-# End of https://www.toptal.com/developers/gitignore/api/react,reactnative,node
+# End of https://www.toptal.com/developers/gitignore/api/node,react,reactnative,database
